@@ -11,3 +11,11 @@ This template robot:
 ## Learning materials
 
 - [All docs related to Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
+
+
+## Proyecto:
+
+✨ El presente proyecto corresponde al Logon y Login de usuario a SAP.
+   ⏩Se setearon las credenciales de acceso en variables de entorno
+
+
