@@ -16,6 +16,6 @@ This template robot:
 ## Proyecto:
 
 ✨ El presente proyecto corresponde al Logon y Login de usuario a SAP.
-   ⏩Se setearon las credenciales de acceso en variables de entorno
+   - ⏩Se setearon las credenciales de acceso en variables de entorno
 
 
